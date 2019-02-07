@@ -1,0 +1,364 @@
+/*==========  Desktop First  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1199px) {
+.menu .container .col-md-12 .button ul li {
+	margin-left: 23px;
+	font-size: 14px;
+}
+.menu .container .col-md-12 .logo h1 {
+	font-size: 35px;
+}
+.head {
+	height: 700px;
+}
+.head .row .container .text {
+	top: 201px;
+}
+.head .row .container .text h2 {
+	font-size: 35px;
+}
+.head .row .container .text h1 {
+	font-size: 84px;
+}
+.head .row .container .text h3 {
+	font-size: 18px;
+}
+.head .row .container .text a {
+	padding: 8px 25px;
+}
+.head .row .container .text a span {
+	font-size: 16px;
+}
+.work .container .b-controls .controls button {
+	margin-right: 18px;
+}
+}
+
+@media only screen and (max-width: 1190px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 1024px) {
+
+}
+@media only screen and (max-width: 991px) {
+.menu .container .col-md-12 .button {
+	margin: 33px 0;
+}
+.menu .container .col-md-12 .button .click {
+	display: block;
+}
+.style-menu .container .col-md-12 .button {
+	margin: 13px 0
+}
+.head {
+	height: 650px;
+}
+.head .row .container .text {
+	top: 185.5px;
+}
+.head .row .container .text h2 {
+	font-size: 30px;
+}
+.head .row .container .text h1 {
+	font-size: 78px;
+}
+.head .row .container .text a span {
+	font-size: 14px;
+}
+.about .container .img-text .item .img svg {
+	width: 125px;
+}
+.about .container .img-text .item .img {
+	padding: 36px;
+	width: 200px;
+}
+.about .container .img-text .item p {
+	padding: 0 10px;
+}
+.about .container .text .item h1 {
+	font-size: 35px;
+}
+.about .container .text .item h2 {
+	font-size: 18px;
+}
+.about .container .img-text .item h3 {
+	margin: 15px 0 5px;
+}
+.work .container .text .item h1 {
+	font-size: 35px;
+}
+.work .container .text .item h2 {
+	font-size: 18px;
+}
+.info .container .col-md-5 img {
+	position: relative;
+	top: 20px;
+}
+.info .container .text h1 {
+	font-size: 35px;
+}
+.info .container .text h2 {
+	font-size: 18px;
+}
+.reviews .container .text h1 {
+	font-size: 35px;
+}
+.reviews .container .text h2 {
+	font-size: 18px;
+}
+.contact .container .text h2 {
+	padding: 0;
+}
+.contact .container .left .text-1{
+	margin: 0 0 50px;
+}
+.contact .container .text h1 {
+	font-size: 35px;
+}
+.info-2 {
+	padding: 60px 0 60px;
+}
+.info-2 .container .item {
+	padding: 40px 40px 0 0;
+}
+}
+
+@media only screen and (max-width: 823px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+.head .row .container {
+	padding: 0 15px;
+}
+.menu .container{
+	padding: 0 15px;
+}
+.about .container{
+	padding: 0 15px;
+}
+.work .container{
+	padding: 0 15px;
+}
+.info .container{
+	padding: 0 15px;
+}
+.info-2 .container{
+	padding: 0 15px;
+}
+.head {
+	height: 600px;
+}
+.head .row .container .text {
+	top: 171.5px;
+}
+.head .row .container .text h1 {
+	font-size: 70px;
+}
+.head .row .container .text h2 {
+	font-size: 25px;
+}
+.head .row .container .text a {
+	padding: 6px 25px;
+}
+.head .row .container .text a span {
+	font-size: 12px;
+}
+.about .container .img-text .item {
+	padding: 0 0 35px 0;
+}
+.about .container .img-text .item .img svg {
+	width: 150px;
+}
+.about .container .img-text .item .img {
+	padding: 36px;
+	width: 240px;
+}
+.about .container .text .item h1 {
+	font-size: 30px;
+}
+.work .row {
+	width: 100%;
+}
+.work .container .b-controls .controls button {
+	font-size: 14px;
+}
+.work .container .text .item h1 {
+	font-size: 30px;
+}
+.info .container .text h1 {
+	font-size: 30px;
+}
+.info-2 {
+	padding: 60px 0 20px;
+}
+.info-2 .container .item {
+	padding: 0 0 40px;
+}
+.info-2 .container .item svg {
+	margin: auto;
+}
+.info-2 .container .item h3 {
+	text-align: center;
+	margin: 10px 0 5px;
+}
+.info-2 .container .item p {
+	text-align: center;
+}
+.reviews .container .text h1 {
+	font-size: 30px;
+}
+.contact .container .text h1 {
+	font-size: 30px;
+}
+.contact .container .text {
+	padding: 0 15px 30px;
+}
+footer .container {
+	padding: 0 15px;
+}
+}
+
+@media only screen and (max-width: 736px) {
+.head .row .container .text h1 {
+	font-size: 65px;
+}
+.head .row .container .text h2 {
+	font-size: 23px;
+}
+.head .row .container .text {
+	top: 177px;
+}
+
+}
+
+@media only screen and (max-width: 667px) {
+.head {
+	height: 550px;
+}	
+.head .row .container .text {
+	top: 157.5px;
+}
+.head .row .container .text h1 {
+	font-size: 60px;
+} 
+.head .row .container .text h2 {
+	font-size: 20px;
+}
+.about .container .text .item h1 {
+	font-size: 25px;
+}
+.info .container .text h1 {
+	font-size: 25px;
+}
+.work .container .text .item h1 {
+	font-size: 25px;
+}
+.reviews .container .text h1 {
+	font-size: 25px;
+}
+.contact .container .text h1 {
+	font-size: 25px;
+}
+}
+
+@media only screen and (max-width: 659px) {
+
+}
+
+@media only screen and (max-width: 600px) {
+.head {
+	height: 500px;
+}
+.head .row .container .text {
+	top: 141px;
+}
+.head .row .container .text h1 {
+	font-size: 50px;
+} 
+
+.head .row .container .text h2 {
+	font-size: 18px;
+}
+.work .container .b-controls .controls button {
+	display: block;
+	margin: 15px auto;
+}
+.work .container .b-controls {
+	padding: 20px 0 20px;
+}
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 520px) {
+.head .row .container .text {
+	top: 128.5px;
+}
+}
+@media only screen and (max-width: 497px) {
+
+}
+
+@media only screen and (max-width: 507px) {
+.head {
+	height: 500px;
+}
+.head .row .container .text {
+	top: 105.5px;
+}
+.head .row .container .text h3 {
+	padding: 0;
+}
+.about .container .text .item h1 {
+	font-size: 22px;
+}
+.work .container .text .item h1 {
+	font-size: 22px;
+}
+}
+
+@media only screen and (max-width: 380px) {
+footer .container .col-md-12 h2 {
+	font-size: 12px;
+}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+
+}
+
+/*==========  Mobile First  ==========*/
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+
+  /**/ }
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+.work .row {
+	width: 750px;
+}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+.work .row {
+	width: 1000px;
+}
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+.work .row {
+	width: 1200px;
+}
+}
