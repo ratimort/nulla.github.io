@@ -412,8 +412,7 @@ svg {
           line-height: 200px;
           margin: 0px 0 0px;
           color: #E4406F;
-          font-weight: 800;
-          font-family: Proxima Nova; }
+          font-weight: 800;}
         .we-do .container .col-md-12 .text .item h3, .we-do .container .col-md-12 .text .item p {
           color: #111; }
         .we-do .container .col-md-12 .text .item h3 {
@@ -445,7 +444,6 @@ svg {
         padding-left: 20px; }
         .info .container .text ul li {
           font-size: 20px;
-          font-family: Proxima Nova;
           font-style: normal;
           font-weight: 300;
           padding: 0 0 20px; }
