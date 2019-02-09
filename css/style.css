@@ -12,7 +12,7 @@ h1, h3, p, h2, li, h4, a {
   font-weight: 100;
   color: #fff; }
 
-p {
+p, button, textarea {
   font-family: Montserrat,Helvetica,sans-serif;
   font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-style: normal;
@@ -563,7 +563,6 @@ svg {
       height: 60px;
       margin: 15px 0;
       padding: 0 20px;
-      font-family: Proxima Nova;
       font-size: 19px;
       font-weight: 300;
       border-radius: 5px; }
@@ -577,7 +576,6 @@ svg {
       margin: 15px 0;
       font-size: 19px;
       font-weight: 300;
-      font-family: Proxima Nova;
       padding: 20px 20px;
       border-radius: 5px; }
       .contact .container .right #form textarea:focus {
